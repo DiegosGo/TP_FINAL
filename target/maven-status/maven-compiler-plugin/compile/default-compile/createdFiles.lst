@@ -1,0 +1,4 @@
+model\Series.class
+data\Conexion.class
+data\SeriesDAO.class
+controller\ServletControlador.class
